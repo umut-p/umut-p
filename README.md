@@ -6,7 +6,7 @@ About me:
 
 ⚡ I am a student in M.Sc. Scientific Computing program at the Technical University Berlin.
 
-🔭 I'm currently working on my thesis about solving the nonlinear Helmholtz equation using WavesAndEigenvalues.jl. 
+🔭 I'm currently working on my thesis. It is about improving the code WavesAndEigenvalues.jl by adding Resolvent analysis. 
 
 📫 How to reach me: email: umut.polat@campus.tu-berlin.de 
 
